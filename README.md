@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="400px" width="1000px">
+  <img src="https://user-images.githubusercontent.com/68809072/149554034-1015cd40-b1c7-4f36-a95e-6ea69d125b2f.png" height="400px" width="1000px">
 </p>
 <p>
    Decent Coder and Self Taught Programmer
