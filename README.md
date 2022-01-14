@@ -3,13 +3,13 @@
   <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="400px" width="1000px">
 </p>
 <p>
-   Enthusiast Coder and Self Taught Programmer
+   Decent Coder and Self Taught Programmer
   </p>
 
 - 👋 Hi, I’m @tejasshet
 - 👀 I’m interested in Learning Data Structures and Algorithms and Upcoming Backend Developer
 - 🌱 I’m currently learning java python & Solidity
-- 💞️ I’m looking to Contribute over Open source and Have  working over Robotic process Automation(RPA) Learning over Robotic framework 
+- 💞️ I’m looking to Contribute over Open source and Have  working over Robotic process Automation(RPA) Learning over UI Path 
 - 📫 TO Reach me <a href="https://www.linkedin.com/in/tejas-shet-69781a193">@tejas shet</a>
 
 
